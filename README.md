@@ -9,12 +9,12 @@ Instalasi WEB pada XAMPP PHP MY SQL
 5. jalankan aplikasi xampp dan jalankan Apache serta MySQL
 6. Buka server PHPMyAdmin
 7. Buat Database
-8. Ekspor database kalian "pengaduan.sql" dan kirim/go
+8. Ekspor database kalian "ujikompetensiudin.sql" dan kirim/go
 
 Beranda Web
 
 1. Login
-   - Gunakan username 'adm' dan password 'adm' sebagai default
+   - Gunakan username 'admin' dan password 'admin' sebagai admin
 2. Register Masyarakat
    - Isi Nik
    - Nama Lengkap
@@ -29,11 +29,11 @@ Isi dan Fitur WEB :
    - Tanggapan Laporan Masyarakat
    - Proses Laporan Masyarakat
    - Kelola Akun petugas
+   - Kelola Akun Masyarakat
    - Lihat dan Cetak Laporan
  * Jika Login sebagai Petugas
    - Tanggapan Laporan Masyarakat
    - Proses Laporan Masyarakat
-   - Lihat dan Cetak Laporan
  * Jika laporan sebagai Masyarakat
    - Ajukan Pengaduan
-   - Riwayat Pengaduan
+   - Lihat Pengaduan
